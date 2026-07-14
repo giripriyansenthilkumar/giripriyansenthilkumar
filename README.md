@@ -255,7 +255,7 @@ Machine Learning • Computer Vision • NLP • Generative AI • Whisper • T
 
 ### ⛏️ Tools & Platforms: 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,anaconda&theme=dark" height=60/>
-<img src="assets/logo/colab.webp" height=60/>  
+<img src="assets/logo/colab.webp" height=50/>  
 <!-- <img src="https://skillicons.dev/icons?i=heroku,vercel,postman&theme=dark" height=60/> -->
 
 ### 🗣️ Soft Skills:  
