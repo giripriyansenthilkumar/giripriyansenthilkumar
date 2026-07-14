@@ -250,7 +250,7 @@ Machine Learning • Computer Vision • NLP • Generative AI • Whisper • T
 ### ⚙️ Frameworks & Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=flask,mongodb,mysql,git,github,vscode,anaconda&theme=dark" height="60"/>
+  <img src="https://skillicons.dev/icons?i=flask,django&theme=dark" height="60"/>
 </p>
 
 ### ⛏️ Tools & Platforms: 
