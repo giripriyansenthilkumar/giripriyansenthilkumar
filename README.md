@@ -229,19 +229,37 @@ I like projects that force me to touch the whole stack — from the model, to th
 </div>
 <div font-size="32px" >
 
-**Programming Languages:** Python · C++ · SQL · HTML · CSS
+### 💻 Tech Stack
 
-**AI & Machine Learning:** TensorFlow · PyTorch · Scikit-learn · Machine Learning · Computer Vision · Natural Language Processing (NLP)
+<p align="center">
+Machine Learning • Computer Vision • NLP • Generative AI • Whisper • Transformers • LLMs • Sentence Transformers • Embeddings
+</p>
 
-**NLP & Generative AI:** Whisper · Transformers · LLMs · Tokenization · Embeddings · Sentence Transformers
+### 💻 Programming Languages
 
-**Frameworks & Backend:** Flask
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,html,css,mysql&theme=dark" height="60"/>
+</p>
 
-**Databases:** MongoDB · MySQL
+### 🤖 AI & Machine Learning
 
-**Tools & Platforms:** Git · GitHub · VS Code · Google Colab · Anaconda
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark" height="60"/>
+</p>
 
-**Soft Skills:** Problem-solving · Collaboration · Adaptability · Leadership · Communication
+### ⚙️ Frameworks & Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=flask,mongodb,mysql,git,github,vscode,anaconda&theme=dark" height="60"/>
+</p>
+
+### ⛏️ Tools & Platforms: 
+<img src="https://skillicons.dev/icons?i=git,github,vscode,anaconda&theme=dark" height=60/>
+<img src="assets/logo/colab.webp" height=60/>  
+<!-- <img src="https://skillicons.dev/icons?i=heroku,vercel,postman&theme=dark" height=60/> -->
+
+### 🗣️ Soft Skills:  
+Problem-solving · Collaboration · Adaptability · Leadership · Communication
 
 </div>
 
