@@ -1,0 +1,60 @@
+<svg viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="coreGrad" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#8E2DE2"/>
+      <stop offset="100%" stop-color="#2F80ED"/>
+    </radialGradient>
+  </defs>
+
+  <circle cx="250" cy="250" r="90" fill="none" stroke="#2F80ED" stroke-opacity="0.25" stroke-width="1"/>
+  <circle cx="250" cy="250" r="150" fill="none" stroke="#8E2DE2" stroke-opacity="0.2" stroke-width="1"/>
+  <circle cx="250" cy="250" r="205" fill="none" stroke="#2F80ED" stroke-opacity="0.15" stroke-width="1"/>
+
+  <circle cx="250" cy="250" r="55" fill="url(#coreGrad)">
+    <animate attributeName="r" values="55;60;55" dur="2.5s" repeatCount="indefinite"/>
+  </circle>
+  <text x="250" y="245" text-anchor="middle" fill="#ffffff" font-family="monospace" font-size="16" font-weight="700">AI / ML</text>
+  <text x="250" y="263" text-anchor="middle" fill="#ffffff" font-family="monospace" font-size="11">Engineer</text>
+
+  <!-- radius 90: Python -->
+  <g>
+    <animateMotion dur="10s" begin="0s" repeatCount="indefinite"
+      path="M 340,250 A 90,90 0 1,1 160,250 A 90,90 0 1,1 340,250" />
+    <circle r="22" fill="#0d1117" stroke="#2F80ED" stroke-width="2"/>
+    <image href="https://cdn.simpleicons.org/python/3776AB" x="-13" y="-13" width="26" height="26"/>
+  </g>
+
+  <!-- radius 150: Flask, MongoDB -->
+  <g>
+    <animateMotion dur="16s" begin="0s" repeatCount="indefinite"
+      path="M 400,250 A 150,150 0 1,1 100,250 A 150,150 0 1,1 400,250" />
+    <circle r="24" fill="#0d1117" stroke="#8E2DE2" stroke-width="2"/>
+    <image href="https://cdn.simpleicons.org/flask/ffffff" x="-13" y="-13" width="26" height="26"/>
+  </g>
+  <g>
+    <animateMotion dur="16s" begin="-8s" repeatCount="indefinite"
+      path="M 400,250 A 150,150 0 1,1 100,250 A 150,150 0 1,1 400,250" />
+    <circle r="24" fill="#0d1117" stroke="#2F80ED" stroke-width="2"/>
+    <image href="https://cdn.simpleicons.org/mongodb/47A248" x="-13" y="-13" width="26" height="26"/>
+  </g>
+
+  <!-- radius 205: Git, MySQL, GoogleColab -->
+  <g>
+    <animateMotion dur="24s" begin="0s" repeatCount="indefinite"
+      path="M 455,250 A 205,205 0 1,1 45,250 A 205,205 0 1,1 455,250" />
+    <circle r="20" fill="#0d1117" stroke="#8E2DE2" stroke-width="2"/>
+    <image href="https://cdn.simpleicons.org/git/F05032" x="-12" y="-12" width="24" height="24"/>
+  </g>
+  <g>
+    <animateMotion dur="24s" begin="-8s" repeatCount="indefinite"
+      path="M 455,250 A 205,205 0 1,1 45,250 A 205,205 0 1,1 455,250" />
+    <circle r="20" fill="#0d1117" stroke="#2F80ED" stroke-width="2"/>
+    <image href="https://cdn.simpleicons.org/mysql/4479A1" x="-12" y="-12" width="24" height="24"/>
+  </g>
+  <g>
+    <animateMotion dur="24s" begin="-16s" repeatCount="indefinite"
+      path="M 455,250 A 205,205 0 1,1 45,250 A 205,205 0 1,1 455,250" />
+    <circle r="20" fill="#0d1117" stroke="#8E2DE2" stroke-width="2"/>
+    <image href="https://cdn.simpleicons.org/googlecolab/F9AB00" x="-12" y="-12" width="24" height="24"/>
+  </g>
+</svg>

@@ -1,0 +1,53 @@
+<svg viewBox="0 0 620 260" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="winGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#161b22"/>
+      <stop offset="100%" stop-color="#0d1117"/>
+    </linearGradient>
+  </defs>
+
+  <!-- window -->
+  <rect x="0" y="0" width="620" height="260" rx="12" fill="url(#winGrad)" stroke="#30363d"/>
+  <rect x="0" y="0" width="620" height="34" rx="12" fill="#21262d"/>
+  <rect x="0" y="22" width="620" height="12" fill="#21262d"/>
+  <circle cx="22" cy="17" r="6" fill="#ff5f56"/>
+  <circle cx="42" cy="17" r="6" fill="#ffbd2e"/>
+  <circle cx="62" cy="17" r="6" fill="#27c93f"/>
+  <text x="310" y="21" text-anchor="middle" font-family="monospace" font-size="12" fill="#8b949e">giripriyan@dev:~</text>
+
+  <g font-family="monospace" font-size="15">
+    <text x="20" y="65" fill="#2F80ED">$ <tspan fill="#c9d1d9">whoami</tspan></text>
+    <text x="20" y="90" fill="#8b949e" opacity="0">
+      Giripriyan S — AI/ML Engineer
+      <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.02;0.06;0.22;0.25" dur="16s" repeatCount="indefinite"/>
+    </text>
+
+    <text x="20" y="120" fill="#2F80ED" opacity="0">
+      $ <tspan fill="#c9d1d9">cat current_focus.txt</tspan>
+      <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.25;0.27;0.47;0.5" dur="16s" repeatCount="indefinite"/>
+    </text>
+    <text x="20" y="145" fill="#8b949e" opacity="0">
+      Generative AI · Speech Processing · Deep Learning
+      <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.29;0.31;0.47;0.5" dur="16s" repeatCount="indefinite"/>
+    </text>
+
+    <text x="20" y="175" fill="#2F80ED" opacity="0">
+      $ <tspan fill="#c9d1d9">./run.sh --status</tspan>
+      <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.5;0.52;0.72;0.75" dur="16s" repeatCount="indefinite"/>
+    </text>
+    <text x="20" y="200" fill="#27c93f" opacity="0">
+      ✓ Building AI-powered apps. Always shipping.
+      <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.54;0.56;0.72;0.75" dur="16s" repeatCount="indefinite"/>
+    </text>
+
+    <text x="20" y="230" fill="#2F80ED" opacity="0">
+      $ <tspan fill="#c9d1d9">_</tspan>
+      <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.75;0.77;0.97;1" dur="16s" repeatCount="indefinite"/>
+    </text>
+  </g>
+
+  <!-- blinking cursor -->
+  <rect x="20" y="240" width="9" height="14" fill="#2F80ED">
+    <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1s" repeatCount="indefinite"/>
+  </rect>
+</svg>

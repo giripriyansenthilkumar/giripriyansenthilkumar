@@ -1,0 +1,72 @@
+<svg viewBox="0 0 1000 320" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <marker id="arrowVF" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto">
+      <path d="M0,0 L8,3 L0,6 Z" fill="#8E2DE2"/>
+    </marker>
+    <style>
+      .box { fill:#161b22; stroke:#2F80ED; stroke-width:1.5; rx:10; }
+      .lbl { font-family:monospace; font-size:13px; fill:#e6edf3; text-anchor:middle; }
+      .sub { font-family:monospace; font-size:10px; fill:#8b949e; text-anchor:middle; }
+      .flow { stroke:#8E2DE2; stroke-width:2.5; fill:none; stroke-dasharray:6 6; marker-end:url(#arrowVF); }
+    </style>
+  </defs>
+
+  <text x="500" y="24" text-anchor="middle" font-family="monospace" font-size="16" font-weight="700" fill="#ffffff">Voice Fusion — Pipeline Architecture</text>
+
+  <!-- Row 1 -->
+  <rect class="box" x="20"  y="60" width="180" height="70"/>
+  <text class="lbl" x="110" y="90">English Audio</text>
+  <text class="sub" x="110" y="108">Movie dialogue input</text>
+
+  <rect class="box" x="260" y="60" width="180" height="70"/>
+  <text class="lbl" x="350" y="90">Speech Extraction</text>
+  <text class="sub" x="350" y="108">Isolate voice track</text>
+
+  <rect class="box" x="500" y="60" width="180" height="70"/>
+  <text class="lbl" x="590" y="90">Translation</text>
+  <text class="sub" x="590" y="108">English → Tamil</text>
+
+  <rect class="box" x="740" y="60" width="240" height="70"/>
+  <text class="lbl" x="860" y="90">Voice Cloning</text>
+  <text class="sub" x="860" y="108">Speaker embedding match</text>
+
+  <path class="flow" d="M200,95 H260">
+    <animate attributeName="stroke-dashoffset" values="0;-24" dur="1s" repeatCount="indefinite"/>
+  </path>
+  <path class="flow" d="M440,95 H500">
+    <animate attributeName="stroke-dashoffset" values="0;-24" dur="1s" repeatCount="indefinite"/>
+  </path>
+  <path class="flow" d="M680,95 H740">
+    <animate attributeName="stroke-dashoffset" values="0;-24" dur="1s" repeatCount="indefinite"/>
+  </path>
+
+  <!-- turn down -->
+  <path class="flow" d="M860,130 V170 H860" opacity="0">
+  </path>
+  <path class="flow" d="M860,130 V190" >
+    <animate attributeName="stroke-dashoffset" values="0;-24" dur="1s" repeatCount="indefinite"/>
+  </path>
+
+  <!-- Row 2 -->
+  <rect class="box" x="600" y="200" width="220" height="70"/>
+  <text class="lbl" x="710" y="230">Speech Synthesis</text>
+  <text class="sub" x="710" y="248">Natural Tamil speech + emotion</text>
+
+  <rect class="box" x="330" y="200" width="220" height="70"/>
+  <text class="lbl" x="440" y="230">Lip-Sync Engine</text>
+  <text class="sub" x="440" y="248">Aligns mouth movement</text>
+
+  <rect class="box" x="60" y="200" width="220" height="70"/>
+  <text class="lbl" x="170" y="230">PyQt Desktop UI</text>
+  <text class="sub" x="170" y="248">End-to-end dubbing workflow</text>
+
+  <path class="flow" d="M860,190 V200"/>
+  <path class="flow" d="M600,235 H550">
+    <animate attributeName="stroke-dashoffset" values="0;-24" dur="1s" repeatCount="indefinite"/>
+  </path>
+  <path class="flow" d="M330,235 H280">
+    <animate attributeName="stroke-dashoffset" values="0;-24" dur="1s" repeatCount="indefinite"/>
+  </path>
+
+  <text x="500" y="300" text-anchor="middle" font-family="monospace" font-size="11" fill="#8b949e">Python · Deep Learning · PyQt</text>
+</svg>

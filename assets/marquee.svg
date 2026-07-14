@@ -1,0 +1,32 @@
+<svg viewBox="0 0 900 50" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="fadeEdges" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#0d1117" stop-opacity="1"/>
+      <stop offset="8%" stop-color="#0d1117" stop-opacity="0"/>
+      <stop offset="92%" stop-color="#0d1117" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#0d1117" stop-opacity="1"/>
+    </linearGradient>
+    <clipPath id="strip"><rect x="0" y="0" width="900" height="50"/></clipPath>
+  </defs>
+
+  <rect x="0" y="0" width="900" height="50" rx="10" fill="#0d1117" stroke="#30363d"/>
+
+  <g clip-path="url(#strip)" font-family="monospace" font-size="16" font-weight="700">
+    <g fill="#2F80ED">
+      <text x="0" y="32">🟢 OPEN TO COLLABORATE&#160;&#160;&#160;&#160;•&#160;&#160;&#160;&#160;
+        <tspan fill="#8E2DE2">BUILDING WITH GENERATIVE AI</tspan>&#160;&#160;&#160;&#160;•&#160;&#160;&#160;&#160;
+        <tspan fill="#2F80ED">ALWAYS LEARNING</tspan>&#160;&#160;&#160;&#160;•&#160;&#160;&#160;&#160;
+        <tspan fill="#8E2DE2">SPEECH + DEEP LEARNING</tspan>&#160;&#160;&#160;&#160;•&#160;&#160;&#160;&#160;
+        <animate attributeName="x" values="900;-900" dur="14s" repeatCount="indefinite"/>
+      </text>
+      <text x="900" y="32">🟢 OPEN TO COLLABORATE&#160;&#160;&#160;&#160;•&#160;&#160;&#160;&#160;
+        <tspan fill="#8E2DE2">BUILDING WITH GENERATIVE AI</tspan>&#160;&#160;&#160;&#160;•&#160;&#160;&#160;&#160;
+        <tspan fill="#2F80ED">ALWAYS LEARNING</tspan>&#160;&#160;&#160;&#160;•&#160;&#160;&#160;&#160;
+        <tspan fill="#8E2DE2">SPEECH + DEEP LEARNING</tspan>&#160;&#160;&#160;&#160;•&#160;&#160;&#160;&#160;
+        <animate attributeName="x" values="1800;0" dur="14s" repeatCount="indefinite"/>
+      </text>
+    </g>
+  </g>
+
+  <rect x="0" y="0" width="900" height="50" fill="url(#fadeEdges)"/>
+</svg>
