@@ -291,7 +291,7 @@ Problem-solving · Collaboration · Adaptability · Leadership · Communication
 </table>
 
 </div>
-<h2 align="center">📜 Certificates</h2>
+<h2 align="center">📜 Course Certificates</h2>
 <table>
 <tr>
 <td width="33%" align="center">
@@ -320,6 +320,17 @@ NoviTech R&D Pvt Ltd
 </td>
 </tr>
 </table>
+
+---
+
+### 👤 Profile
+
+---
+
+<a href="https://leetcode.com/u/giripriyansenthilkumar/">
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/giripriyansenthilkumar" alt="LeetCode Stats"/>
+</p></a>
 <!-- 
 > 📌 **Action needed:** drop your actual certificate screenshots into `assets/certificates/` using the exact filenames above (`csharp-corner-ai-developer.png`, `novitech-machine-learning.png`, `novitech-artificial-intelligence.png`), and they'll display automatically in the table. -->
 
