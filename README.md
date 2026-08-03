@@ -7,8 +7,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8E2DE2&center=true&vCenter=true&width=650&lines=%3E+Open+to+collaborate;Building+Real+World+solutions+with+AI;Generative+AI+%7C+NLP+%7C+Computer+Vision;Level%3A+B.Tech+AI%26ML+Final+year+Student" />
 
-<!-- <img src="./assets/marquee.svg" width="100%" alt="scrolling status ticker" /> -->
-
 <img src="https://komarev.com/ghpvc/?username=giripriyansenthilkumar&label=Profile%20Visitors&color=8E2DE2&style=for-the-badge" />
 
 </div>
@@ -45,49 +43,65 @@ I like projects that force me to touch the whole stack — from the model, to th
 ---
 
 <!-- ============================================================ -->
-<!-- 4. SKILLS (ANIMATED, WITH LOGOS) -->
+<!-- 4. SKILLS — INTERACTIVE FLOATING BUBBLE CHART -->
 <!-- ============================================================ -->
 ## ⚔️ Skills
 
 <div align="center">
 
-<!-- <img src="./assets/orbit.svg" width="360" alt="animated orbiting tech stack with logos" />
+<!-- Live interactive bubble chart — drag, push & float all 24 skills -->
+<!-- Hosted via GitHub Pages: https://giripriyansenthilkumar.github.io/skills-bubble -->
+<a href="https://giripriyansenthilkumar.github.io/giripriyansenthilkumar/skills-bubble.html" target="_blank">
+  <img src="https://img.shields.io/badge/⚡_Interactive_Skills_Bubble_Chart-Click_to_Explore-7B61FF?style=for-the-badge&labelColor=0a0a1a" />
+</a>
 
-<br/> -->
+<br/><br/>
 
- <!-- <h2>⚡ Tech Stack</h2> -->
+> 🫧 **[Open the live interactive bubble chart →](./assets/skill_bubble/skills-bubble.html)**  
+> Drag, push, and float 24 skills across 5 categories. Works on mobile too.
 
-<p align="center">
+<br/>
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask"/>
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<!-- Fallback static badges for README rendering -->
 
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Transformers-FFD43B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LLMs-8A2BE2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RAG-00C853?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Embeddings-00BCD4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Whisper-795548?style=for-the-badge"/>
+**🟣 Languages**
 
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv"/>
-<img src="https://img.shields.io/badge/YOLO-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/EasyOCR-16A085?style=for-the-badge"/>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode"/>
-<img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white"/>
-<img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
+**🟣 AI / ML**
 
-</p>
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-FFD43B?style=for-the-badge)
+![LLMs](https://img.shields.io/badge/LLMs-8A2BE2?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-00C853?style=for-the-badge)
+![Embeddings](https://img.shields.io/badge/Embeddings-00BCD4?style=for-the-badge)
+![Whisper](https://img.shields.io/badge/Whisper-795548?style=for-the-badge)
+
+**🔵 Computer Vision**
+
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv)
+![YOLO](https://img.shields.io/badge/YOLO-111827?style=for-the-badge)
+![EasyOCR](https://img.shields.io/badge/EasyOCR-16A085?style=for-the-badge)
+
+**🟢 Backend & DB**
+
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+**🟡 Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
+![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 
 </div>
 
@@ -118,6 +132,7 @@ I like projects that force me to touch the whole stack — from the model, to th
 </table>
 
 </div>
+
 <h2 align="center">📜 Course Certificates</h2>
 <table>
 <tr>
@@ -158,13 +173,11 @@ NoviTech R&D Pvt Ltd
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/giripriyansenthilkumar" alt="LeetCode Stats"/>
 </p></a>
-<!-- 
-> 📌 **Action needed:** drop your actual certificate screenshots into `assets/certificates/` using the exact filenames above (`csharp-corner-ai-developer.png`, `novitech-machine-learning.png`, `novitech-artificial-intelligence.png`), and they'll display automatically in the table. -->
 
 ---
 
 <!-- ============================================================ -->
-<!-- 6. PROJECTS — ONE BY ONE, WITH ARCHITECTURE + PUBLICATION LINKS -->
+<!-- 6. PROJECTS -->
 <!-- ============================================================ -->
 ## 🚀 Projects
 
@@ -176,7 +189,7 @@ Converts speech dialogue into natural multilingual speech with emotion and lip-s
 
 `Python` `Deep Learning` `Video Processing` `Speech Synthesis` `Voice Cloning` `Flask` `MySQL`
 
-🔗 **Repo:** [github.com/giripriyansenthilkumar/voice-fusion](https://github.com/giripriyansenthilkumar/VoiceFusionAI) <br>
+🔗 **Repo:** [github.com/giripriyansenthilkumar/VoiceFusionAI](https://github.com/giripriyansenthilkumar/VoiceFusionAI) <br>
 📄 **Publication:** [*Paper*](https://www.ijaresm.com/uploaded_files/document_file/Giripriyan_SOL9E.pdf)
 
 </td></tr></table>
@@ -191,7 +204,7 @@ Detects misinformation from live audio using speech-to-text (Whisper) plus NLP m
 
 `Flask` `Whisper` `Transformers` `MongoDB`
 
-🔗 **Repo:** [github.com/giripriyansenthilkumar/factwave](https://github.com/giripriyansenthilkumar/Factwave.git)
+🔗 **Repo:** [github.com/giripriyansenthilkumar/Factwave](https://github.com/giripriyansenthilkumar/Factwave.git)
 
 </td></tr></table>
 
@@ -205,7 +218,7 @@ Automates user approval by validating input against OCR-extracted document data 
 
 `Python` `Flask` `EasyOCR` `TensorFlow`
 
-🔗 **Repo:** [github.com/giripriyansenthilkumar/ai-approval-portal](https://github.com/giripriyansenthilkumar/AI-POWERED-SCHOLARSHIP-APPROVAL-AND-MONITORING-SYSTEM-FOR-PMSSS.git)
+🔗 **Repo:** [github.com/giripriyansenthilkumar/AI-POWERED-SCHOLARSHIP](https://github.com/giripriyansenthilkumar/AI-POWERED-SCHOLARSHIP-APPROVAL-AND-MONITORING-SYSTEM-FOR-PMSSS.git)
 
 </td></tr></table>
 
@@ -221,13 +234,6 @@ Automates user approval by validating input against OCR-extracted document data 
 src="https://github-readme-stats-sigma-five.vercel.app/api?username=giripriyansenthilkumar&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true"/>
 <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=giripriyansenthilkumar&layout=compact&theme=radical&hide_border=true" />
 </div>
-
-<!-- <div align="center">
-
-### 🏆 Trophy Case
-<img src="https://github-profile-trophy.vercel.app/?username=giripriyansenthilkumar&theme=radical&no-frame=true&row=1&column=7" />
-
-</div> -->
 
 ---
 
