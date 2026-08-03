@@ -60,12 +60,17 @@ I like projects that force me to touch the whole stack — from the model, to th
 <p align="center">
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 <img src="https://img.shields.io/badge/Transformers-FFD43B?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/LLMs-8A2BE2?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/RAG-00C853?style=for-the-badge"/>
@@ -79,190 +84,12 @@ I like projects that force me to touch the whole stack — from the model, to th
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode"/>
+<img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white"/>
+<img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
 
-<!-- </p>
-<div align="center">
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square"/>
-<img src="https://img.shields.io/badge/LLMs-9C27B0?style=flat-square"/>
-<img src="https://img.shields.io/badge/Transformers-FFC107?style=flat-square"/>
-<img src="https://img.shields.io/badge/RAG-00C853?style=flat-square"/>
-<img src="https://img.shields.io/badge/Whisper-795548?style=flat-square"/>
-<img src="https://img.shields.io/badge/YOLO-000000?style=flat-square"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=flat-square"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square"/>
-
-</div> -->
-<filter id="glass-shadow" x="-20%" y="-20%" width="140%" height="140%">
-  <feGaussianBlur in="SourceAlpha" stdDeviation="4" result="blur1" />
-  <feOffset dx="0" dy="4" result="offsetBlur" />
-  <feComponentTransfer in="offsetBlur" result="shadow">
-    <feFuncA type="linear" slope="0.3" />
-  </feComponentTransfer>
-  <feMerge>
-    <feMergeNode in="shadow" />
-    <feMergeNode in="SourceGraphic" />
-  </feMerge>
-</filter>
-
-<linearGradient id="line-pulse" x1="0%" y1="0%" x2="100%" y2="100%">
-  <stop offset="0%" stop-color="#60A5FA" stop-opacity="0.8" />
-  <stop offset="50%" stop-color="#C084FC" stop-opacity="1" />
-  <stop offset="100%" stop-color="#22D3EE" stop-opacity="0.8" />
-</linearGradient>
-
-<linearGradient id="grad-prog" x1="0%" y1="0%" x2="100%" y2="100%">
-  <stop offset="0%" stop-color="#3B82F6" stop-opacity="0.3" />
-  <stop offset="100%" stop-color="#60A5FA" stop-opacity="0.1" />
-</linearGradient>
-<linearGradient id="stroke-prog" x1="0%" y1="0%" x2="100%" y2="100%">
-  <stop offset="0%" stop-color="#60A5FA" stop-opacity="0.7" />
-  <stop offset="100%" stop-color="#93C5FD" stop-opacity="0.2" />
-</linearGradient>
-
-<linearGradient id="grad-ai" x1="0%" y1="0%" x2="100%" y2="100%">
-  <stop offset="0%" stop-color="#A855F7" stop-opacity="0.3" />
-  <stop offset="100%" stop-color="#C084FC" stop-opacity="0.1" />
-</linearGradient>
-<linearGradient id="stroke-ai" x1="0%" y1="0%" x2="100%" y2="100%">
-  <stop offset="0%" stop-color="#C084FC" stop-opacity="0.7" />
-  <stop offset="100%" stop-color="#E9D5FF" stop-opacity="0.2" />
-</linearGradient>
-
-<linearGradient id="grad-genai" x1="0%" y1="0%" x2="100%" y2="100%">
-  <stop offset="0%" stop-color="#06B6D4" stop-opacity="0.3" />
-  <stop offset="100%" stop-color="#22D3EE" stop-opacity="0.1" />
-</linearGradient>
-<linearGradient id="stroke-genai" x1="0%" y1="0%" x2="100%" y2="100%">
-  <stop offset="0%" stop-color="#22D3EE" stop-opacity="0.7" />
-  <stop offset="100%" stop-color="#A5F3FC" stop-opacity="0.2" />
-</linearGradient>
-
-<linearGradient id="grad-speech" x1="0%" y1="0%" x2="100%" y2="100%">
-  <stop offset="0%" stop-color="#10B981" stop-opacity="0.3" />
-  <stop offset="100%" stop-color="#34D399" stop-opacity="0.1" />
-</linearGradient>
-<linearGradient id="stroke-speech" x1="0%" y1="0%" x2="100%" y2="100%">
-  <stop offset="0%" stop-color="#34D399" stop-opacity="0.7" />
-  <stop offset="100%" stop-color="#A7F3D0" stop-opacity="0.2" />
-</linearGradient>
-
-<linearGradient id="grad-cv" x1="0%" y1="0%" x2="100%" y2="100%">
-  <stop offset="0%" stop-color="#F97316" stop-opacity="0.3" />
-  <stop offset="100%" stop-color="#FB923C" stop-opacity="0.1" />
-</linearGradient>
-<linearGradient id="stroke-cv" x1="0%" y1="0%" x2="100%" y2="100%">
-  <stop offset="0%" stop-color="#FB923C" stop-opacity="0.7" />
-  <stop offset="100%" stop-color="#FDBA74" stop-opacity="0.2" />
-</linearGradient>
-
-<linearGradient id="grad-backend" x1="0%" y1="0%" x2="100%" y2="100%">
-  <stop offset="0%" stop-color="#4F46E5" stop-opacity="0.3" />
-  <stop offset="100%" stop-color="#818CF8" stop-opacity="0.1" />
-</linearGradient>
-<linearGradient id="stroke-backend" x1="0%" y1="0%" x2="100%" y2="100%">
-  <stop offset="0%" stop-color="#818CF8" stop-opacity="0.7" />
-  <stop offset="100%" stop-color="#C7D2FE" stop-opacity="0.2" />
-</linearGradient>
-
-<linearGradient id="grad-db" x1="0%" y1="0%" x2="100%" y2="100%">
-  <stop offset="0%" stop-color="#22C55E" stop-opacity="0.3" />
-  <stop offset="100%" stop-color="#4ADE80" stop-opacity="0.1" />
-</linearGradient>
-<linearGradient id="stroke-db" x1="0%" y1="0%" x2="100%" y2="100%">
-  <stop offset="0%" stop-color="#4ADE80" stop-opacity="0.7" />
-  <stop offset="100%" stop-color="#BBF7D0" stop-opacity="0.2" />
-</linearGradient>
-
-<linearGradient id="grad-tools" x1="0%" y1="0%" x2="100%" y2="100%">
-  <stop offset="0%" stop-color="#71717A" stop-opacity="0.3" />
-  <stop offset="100%" stop-color="#A1A1AA" stop-opacity="0.1" />
-</linearGradient>
-<linearGradient id="stroke-tools" x1="0%" y1="0%" x2="100%" y2="100%">
-  <stop offset="0%" stop-color="#A1A1AA" stop-opacity="0.7" />
-  <stop offset="100%" stop-color="#E4E4E7" stop-opacity="0.2" />
-</linearGradient>
-
-<g id="icon-python">
-  <path d="M11.9.1C5.6.1 6.5 2.7 6.5 2.7l.1 2.8h5.3v.8H5s-2.8-.2-2.8 2.7c0 2.9 2.5 3 2.5 3h1.2v-1.4c0-1.7 1.4-3.1 3.1-3.1h5c.9 0 1.6-.7 1.6-1.6V2.6C15.6.6 11.9.1 11.9.1zM9.3 1.9c.5 0 1 .4 1 1s-.4.9-1 .9-.9-.4-.9-.9.4-1 1-1zm3 10.5h-5c-.9 0-1.6.7-1.6 1.6v3.2c0 1.9 3.6 2.4 3.6 2.4s.9 2.6 7.2 2.6c6.3 0 5.4-2.7 5.4-2.7l-.1-2.8h-5.3v-.8H19s2.8.2 2.8-2.7c0-2.9-2.5-3-2.5-3h-1.2v1.4c0 1.7-1.4 3.1-3.1 3.1h-2.7zm2.4 4c.5 0 1 .4 1 1s-.4.9-1 .9-.9-.4-.9-.9.4-1 1-1z" fill="currentColor"/>
-</g>
-<g id="icon-code">
-  <path d="M9.4 16.6L4.8 12l4.6-4.6L8 6l-6 6 6 6 1.4-1.4zm5.2 0l4.6-4.6-4.6-4.6L16 6l6 6-6 6-1.4-1.4z" fill="currentColor"/>
-</g>
-<g id="icon-ai">
-  <path d="M12 3a3 3 0 00-3 3c0 1.3.8 2.4 2 2.8v2.4a3 3 0 00-2 2.8H6.4A3 3 0 004 10a3 3 0 00-2 2.8H4.4a3 3 0 002 2.8V18a3 3 0 003 3h2a3 3 0 003-3 3 3 0 003 3h2a3 3 0 003-3v-2.4a3 3 0 002-2.8h2.6a3 3 0 002-2.8 3 3 0 00-2-2.8H19.6a3 3 0 00-2-2.8V8.8c1.2-.4 2-1.5 2-2.8a3 3 0 00-3-3z" fill="currentColor"/>
-</g>
-<g id="icon-genai">
-  <path d="M20 2H4c-1.1 0-2 .9-2 2v18l4-4h14c1.1 0 2-.9 2-2V4c0-1.1-.9-2-2-2zm-2 10H6v-2h12v2zm0-3H6V7h12v2z" fill="currentColor"/>
-  <circle cx="18" cy="4" r="1.5" fill="#fff" />
-  <circle cx="14" cy="5" r="1.5" fill="#fff" />
-</g>
-<g id="icon-cv">
-  <path d="M12 4.5C7 4.5 2.73 7.61 1 12c1.73 4.39 6 7.5 11 7.5s9.27-3.11 11-7.5c-1.73-4.39-6-7.5-11-7.5zM12 17c-2.76 0-5-2.24-5-5s2.24-5 5-5 5 2.24 5 5-2.24 5-5 5zm0-8c-1.66 0-3 1.34-3 3s1.34 3 3 3 3-1.34 3-3-1.34-3-3-3z" fill="currentColor"/>
-</g>
-<g id="icon-speech">
-  <path d="M12 14c1.66 0 3-1.34 3-3V5c0-1.66-1.34-3-3-3S9 3.34 9 5v6c0 1.66 1.34 3 3 3zM17 11c0 2.76-2.24 5-5 5s-5-2.24-5-5H5c0 3.53 2.61 6.43 6 6.92V21h2v-3.08c3.39-.49 6-3.39 6-6.92h-2z" fill="currentColor"/>
-</g>
-<g id="icon-backend">
-  <path d="M19.8 18.4L14 10.67V6.5l1.35-1.69c.26-.33.03-.81-.39-.81H9.04c-.42 0-.65.48-.39.81L10 6.5v4.17L4.2 18.4c-.49.66-.02 1.6.8 1.6h14c.82 0 1.29-.94.8-1.6z" fill="currentColor"/>
-</g>
-<g id="icon-db">
-  <path d="M12 2C6.48 2 2 3.79 2 6s4.48 4 10 4 10-1.79 10-4-4.48-4-10-4zm0 5c-4.42 0-8-1.34-8-3s3.58-3 8-3 8 1.34 8 3-3.58 3-8 3zm0 2c-4.42 0-8 1.34-8 3 0 1.66 3.58 3 8 3s8-1.34 8-3c0-1.66-3.58-3-8-3zm0 5c-4.42 0-8 1.34-8 3 0 1.66 3.58 3 8 3s8-1.34 8-3c0-1.66-3.58-3-8-3z" fill="currentColor"/>
-</g>
-<g id="icon-tools">
-  <path d="M19.14 7.5L12 3.38 4.86 7.5v8L12 19.62l7.14-4.12v-8zM12 17.38l-5.14-2.97v-5.94L12 5.5l5.14 2.97v5.94L12 17.38z" fill="currentColor"/>
-</g>
-<g id="icon-github">
-  <path d="M12 2.2C6.5 2.2 2 6.7 2 12.2c0 4.4 2.9 8.2 6.8 9.5.5.1.7-.2.7-.5v-1.8c-2.8.6-3.4-1.3-3.4-1.3-.5-1.2-1.1-1.5-1.1-1.5-.9-.6.1-.6.1-.6 1 .1 1.5 1 1.5 1 .9 1.5 2.3 1.1 2.9.8.1-.6.3-1.1.6-1.3-2.2-.3-4.6-1.1-4.6-5 0-1.1.4-2 1-2.7-.1-.3-.4-1.3.1-2.7 0 0 .8-.3 2.8 1.1.8-.2 1.6-.3 2.5-.3.8 0 1.7.1 2.5.3 1.9-1.3 2.8-1.1 2.8-1.1.5 1.4.2 2.4.1 2.7.6.7 1 1.6 1 2.7 0 3.9-2.4 4.7-4.6 5 .4.3.7.9.7 1.8v2.7c0 .3.2.6.7.5 4-1.3 6.8-5.1 6.8-9.5 0-5.5-4.5-10-10-10z" fill="currentColor"/>
-</g>
-
-<!-- <img src="./assets/skill-bars.svg" width="100%" alt="animated skill levels" align="center"/> -->
-
-<!-- <br/> -->
-
-<!-- <img src="https://skillicons.dev/icons?i=python,cpp,html,css,flask,mongodb,mysql,git,vscode,anaconda&theme=dark" /> -->
----
-</div>
-<div font-size="32px" >
-
-### 💻 Tech Stack
-
-<p align="center">
-Machine Learning • Computer Vision • NLP • Generative AI • Whisper • Transformers • LLMs • Sentence Transformers • Embeddings
 </p>
-
-### 💻 Programming Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,html,css,mysql&theme=dark" height="60"/>
-</p>
-
-### 🤖 AI & Machine Learning
-
-<p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark" height="60"/>
-</p>
-
-### ⚙️ Frameworks & Backend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=flask,django&theme=dark" height="60"/>
-</p>
-
-### ⛏️ Tools & Platforms: 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,anaconda&theme=dark" height=60/>
-<img src="assets/logo/colab.webp" height=50/>  
-<!-- <img src="https://skillicons.dev/icons?i=heroku,vercel,postman&theme=dark" height=60/> -->
-
-### 🗣️ Soft Skills:  
-Problem-solving · Collaboration · Adaptability · Leadership · Communication
 
 </div>
-
 
 ---
 
