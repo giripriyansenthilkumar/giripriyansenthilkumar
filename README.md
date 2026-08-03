@@ -54,7 +54,7 @@ I like projects that force me to touch the whole stack — from the model, to th
     <!-- Fallback if iframe is not supported by the Markdown renderer -->
 
   <!-- </iframe>
-</div> --> -->
+</div> -->
 
 <!-- <br/> -->
 
