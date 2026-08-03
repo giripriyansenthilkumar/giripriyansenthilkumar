@@ -47,18 +47,18 @@ I like projects that force me to touch the whole stack — from the model, to th
 <!-- ============================================================ -->
 ## ⚔️ Skills
 
-<div align="center">
+<!-- <div align="center"> -->
 
-<div align="center">
+<!-- <div align="center">
   <iframe src="./assets/skill_bubble/skills-bubble.html" width="100%" height="600px" style="border: none; overflow: hidden;" scrolling="no">
     <!-- Fallback if iframe is not supported by the Markdown renderer -->
     <a href="https://giripriyansenthilkumar.github.io/giripriyansenthilkumar/assets/skill_bubble/skills-bubble.html" target="_blank">
       <img src="https://img.shields.io/badge/⚡_Interactive_Skills_Bubble_Chart-Click_to_Explore-7B61FF?style=for-the-badge&labelColor=0a0a1a" />
     </a>
-  </iframe>
-</div>
+  <!-- </iframe>
+</div> --> -->
 
-<br/>
+<!-- <br/> -->
 
 <!-- Fallback static badges for README rendering -->
 
