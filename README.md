@@ -168,20 +168,22 @@ NoviTech R&D Pvt Ltd
 <!-- ============================================================ -->
 ## 🚀 Projects
 
+<table width="100%"><tr><td width="100%">
+
 ### 🎙️ Voice Fusion — AI-Powered Multilingual Dubbing System
 
 Converts speech dialogue into natural multilingual speech with emotion and lip-sync, through a full pipeline: speech extraction → translation → voice cloning → synthesis → lip-sync, wrapped in a web app.
 
 `Python` `Deep Learning` `Video Processing` `Speech Synthesis` `Voice Cloning` `Flask` `MySQL`
 
-<!-- <div align="center">
-<img src="./assets/architecture-voicefusion.svg" width="100%" alt="Voice Fusion architecture diagram" />
-</div> -->
-
-🔗 **Repo:** [github.com/giripriyansenthilkumar/voice-fusion](https://github.com/giripriyansenthilkumar/VoiceFusionAI) 
+🔗 **Repo:** [github.com/giripriyansenthilkumar/voice-fusion](https://github.com/giripriyansenthilkumar/VoiceFusionAI) <br>
 📄 **Publication:** [*Paper*](https://www.ijaresm.com/uploaded_files/document_file/Giripriyan_SOL9E.pdf)
 
----
+</td></tr></table>
+
+<br>
+
+<table width="100%"><tr><td width="100%">
 
 ### 🔍 FactWave — Real-Time Misinformation Detection Tool
 
@@ -189,13 +191,13 @@ Detects misinformation from live audio using speech-to-text (Whisper) plus NLP m
 
 `Flask` `Whisper` `Transformers` `MongoDB`
 
-<!-- <div align="center">
-<img src="./assets/architecture-factwave.svg" width="100%" alt="FactWave architecture diagram" />
-</div> -->
-
 🔗 **Repo:** [github.com/giripriyansenthilkumar/factwave](https://github.com/giripriyansenthilkumar/Factwave.git)
 
----
+</td></tr></table>
+
+<br>
+
+<table width="100%"><tr><td width="100%">
 
 ### ✅ AI Approval Process Portal
 
@@ -203,12 +205,9 @@ Automates user approval by validating input against OCR-extracted document data 
 
 `Python` `Flask` `EasyOCR` `TensorFlow`
 
-<!-- <div align="center">
-<img src="./assets/architecture-approval.svg" width="100%" alt="AI Approval Process Portal architecture diagram" />
-</div> -->
-
 🔗 **Repo:** [github.com/giripriyansenthilkumar/ai-approval-portal](https://github.com/giripriyansenthilkumar/AI-POWERED-SCHOLARSHIP-APPROVAL-AND-MONITORING-SYSTEM-FOR-PMSSS.git)
 
+</td></tr></table>
 
 ---
 
